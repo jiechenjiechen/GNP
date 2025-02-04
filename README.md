@@ -81,6 +81,10 @@ python all_in_one.py --location $SUITESPARSE/ssget/mat \
                      --num_workers 4
 ```
 
+## Demo
+
+A demo to showcase the usage of the package is located at `examples/demo.ipynb`.
+
 ## Citation
 
 - <a name="Chen2025"></a>Jie Chen. [Graph Neural Preconditioners for Iterative Solutions of Sparse Linear Systems](https://arxiv.org/abs/2406.00809). In Proceedings of the Thirteenth International Conference on Learning Representations, 2025.
